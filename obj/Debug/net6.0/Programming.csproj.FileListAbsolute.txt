@@ -1,0 +1,45 @@
+C:\Users\emman\OneDrive\Desktop\Programming\bin\Debug\net6.0\Programming.exe
+C:\Users\emman\OneDrive\Desktop\Programming\bin\Debug\net6.0\Programming.deps.json
+C:\Users\emman\OneDrive\Desktop\Programming\bin\Debug\net6.0\Programming.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\Programming\bin\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming\bin\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\refint\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\Programming\obj\Debug\net6.0\ref\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\bin\Debug\net6.0\Programming.exe
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\bin\Debug\net6.0\Programming.deps.json
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\bin\Debug\net6.0\Programming.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\bin\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\bin\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\refint\Programming.dll
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\Programming (Crazy Shit)\obj\Debug\net6.0\ref\Programming.dll
+C:\Users\emman\OneDrive\Desktop\My First Program\bin\Debug\net6.0\Programming.exe
+C:\Users\emman\OneDrive\Desktop\My First Program\bin\Debug\net6.0\Programming.deps.json
+C:\Users\emman\OneDrive\Desktop\My First Program\bin\Debug\net6.0\Programming.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\My First Program\bin\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\My First Program\bin\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.dll
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\refint\Programming.dll
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.pdb
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\My First Program\obj\Debug\net6.0\ref\Programming.dll
